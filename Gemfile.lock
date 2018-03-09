@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     conventional-changelog (1.3.0)
+    rack (1.6.9)
     rake (12.3.0)
 
 PLATFORMS
@@ -9,7 +10,8 @@ PLATFORMS
 
 DEPENDENCIES
   conventional-changelog (~> 1.3)
+  rack (~> 1.6.9)
   rake (~> 12.0)
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
